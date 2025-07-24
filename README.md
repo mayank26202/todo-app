@@ -7,7 +7,6 @@ A clean, responsive and interactive Todo List Web App built with **HTML, CSS, an
 - ✅ Add, edit, delete, and mark tasks as completed
 - 🎯 Filter tasks (All | Completed | Pending)
 - 🧹 "Clear All" button with confirmation
-- 🧮 Task counter (pending/completed)
 - 🎨 Light/Dark theme toggle
 - 📱 Responsive design for mobile and desktop
 - ✨ Smooth animations on task add/remove
